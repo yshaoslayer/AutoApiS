@@ -175,8 +175,8 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 · 14 GB SSD 硬盘空间
 
 使用限制：
-* 每个仓库只能同时支持20个 workflow 并行。
-* 每小时可以调用1000次 GitHub API 。
+* 每个仓库只能同时支持20个 workflow  并行。
+* 每小时可以调用1000次 GitHub  API 。
 * 每个 job 最多可以执行6个小时。
 * 免费版的用户最大支持20个 job 并发执行，macOS 最大只支持5个。
 * 私有仓库每月累计使用时间为2000分钟，超过后$ 0.008/分钟，公共仓库则无限制。
@@ -186,7 +186,7 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 ### 最后 ###
   教程很直白了，应该都会弄吧！
   
-  代码小白，多包涵！有问题/修改建议可以点击上方issues发布一下，或者PY给我:
+  代码小白，多多包涵！有问题/修改建议可以点击上方issues发布一下，或者PY给我:
   wz.lxh@outlook.com
   
   Q群：[657581700](https://jq.qq.com/?_wv=1027&k=5FQJbWmV)  （项目相关讨论）
